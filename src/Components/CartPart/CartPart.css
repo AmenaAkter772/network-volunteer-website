@@ -1,0 +1,15 @@
+.cartStyle{
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    height: 380px;
+    width: 280px;
+    margin: 10px;
+    cursor: pointer;
+}
+.textStyle{
+   color: white;
+   margin-top: 300px;
+   text-align: center;
+   background-color: blue;
+   height: 80px;
+}
